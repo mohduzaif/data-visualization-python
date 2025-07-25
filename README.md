@@ -26,3 +26,12 @@ project-root/
 │   └── ...
 └── README.md
 ```
+
+
+---
+
+## 🔧 Requirements
+
+```bash
+pip install matplotlib seaborn plotly
+```
