@@ -14,7 +14,7 @@ This repository contains beginner to advanced level examples and use cases of da
 project-root/
 ├── matplotlib/
 │   ├── Data Visualization using Matplotlib
-│   ├── 
+│   ├── Advance Matplotlib concepts
 │   └── ...
 ├── seaborn/
 │   ├── 
