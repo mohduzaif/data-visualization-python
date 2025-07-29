@@ -21,7 +21,7 @@ project-root/
 │   ├── 
 │   └── ...
 ├── plotly/
-│   ├── 
+│   ├── About Plotly
 │   ├── 
 │   └── ...
 └── README.md
